@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="83px" viewBox="0 0 87 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="66.6059503%" y1="8.1932251%" x2="42.8366021%" y2="79.6180479%" id="linearGradient-1">
+            <stop stop-color="#231F20" offset="0%"></stop>
+            <stop stop-color="#C3C953" offset="62%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill-rule="nonzero">
+            <ellipse id="Oval" fill="#454545" cx="43.5" cy="41.5" rx="43.5" ry="41.5"></ellipse>
+            <ellipse id="Oval" fill="#1A1A1A" cx="43.5" cy="41.5" rx="36.5" ry="34.5"></ellipse>
+            <ellipse id="Oval" fill="#1A1A1A" cx="43" cy="42" rx="29" ry="28"></ellipse>
+            <rect id="Rectangle" fill="#1A1A1A" x="39" y="0" width="9" height="18"></rect>
+            <rect id="Rectangle" fill="#1A1A1A" x="40" y="65" width="7" height="18"></rect>
+            <g id="Asset-2" transform="translate(15.000000, 14.000000)" fill="url(#linearGradient-1)" stroke="#231F20">
+                <path d="M51.3861033,6.48312017 C52.3448114,9.20642475 53.587297,13.0962968 54.8834703,17.7980369 C56.490265,23.6308745 57.383781,26.8625818 57.7787687,30.3780488 C58.2389485,34.4728584 58.227444,40.8022754 55.2669535,48.7908983 L42.9379678,53 C50.9144189,43.0014128 46.7728001,26.0743605 41.3235034,17.5615705 C39.2105109,20.5174004 36.8635935,23.5914634 34.2635773,26.7325253 C32.3730049,29.018367 30.4862675,31.1741523 28.6263738,33.2038221 C25.0077908,29.3095137 21.6291327,25.1869915 18.5100863,20.8602766 C17.4644554,19.3968124 16.4712338,17.9596222 15.5304217,16.5487061 C8.11385607,24.6752677 9.27964508,44.8537329 13.4749516,53 C8.91150118,50.816627 6.85603109,50.5052796 1.97045479,47.3287478 C0.535680035,41.871781 -0.121799784,36.2298811 0.0185251685,30.5790452 C0.271186469,21.8383472 2.37416455,13.2592168 6.18110061,5.43872695 L15.9982712,0 L29.239947,18.2276175 L41.3043293,0.405933968 L51.3861033,6.48312017 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

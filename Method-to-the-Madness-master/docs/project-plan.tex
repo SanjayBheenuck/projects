@@ -1,0 +1,88 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{tabularx}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\today}
+\lhead{Project Plan - M2theM}
+\rfoot{Page \thepage}
+
+\title{\textbf{Agile Project Plan Document}}
+\author{}
+\date{}
+
+
+\begin{document}
+
+\thispagestyle{empty}
+\renewcommand{\arraystretch}{2}
+
+\maketitle
+
+\begin{tabularx}{\textwidth}{|l|X|}
+	\hline
+		\textbf{{\huge Project:}} &
+		\textbf{{\huge Movie Madness}}\\
+	\hline
+		Release: &
+		1.0\\
+	\hline
+		Date: &
+		\today \\
+	\hline
+		&
+		\\
+	\hline
+		{\Large Author:} &
+		{\Large Method to the Madness}\\
+	\hline
+		Owner: &
+		DevAcademy\\
+	\hline
+		Client: &
+		Deloitte\\
+	\hline
+		Version No.: &
+		1.0\\
+	\hline
+	
+\end{tabularx}
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+\section{Project Plan}
+
+\subsection{Purpose}
+
+For the initial release of our project we will create a website that will be used to display the sample data within the read-only database provided, the website must have at least one dynamic page, allowing the data displayed to change depending on what the user requested. To do this we shall use a RESTful API implemented through Spring Boot and Thymeleaf to handle our back-end and the connection between server and client.
+
+\subsection{Plan Description}
+
+There are two halves of the initial project to be worked upon. In the back-end, the database must be accessed, sorted, and served to the front-end. The front-end must receive and display this data, as well as provide the back-end with the user's input with which to sort the data.
+
+\subsection{Prerequisites}
+
+The prerequisites required to begin this project are as follows:
+
+- A private GitHub repository in the Gateshead College organisation, where the project will be kept.
+
+- A read-only database containing all necessary data (movies, reviews etc).
+
+- Access to technologies taught during the DevAcademy course (allowing us to complete the project with resources that we have been taught).
+
+\subsection{Project Plan}
+
+\subsubsection{Quality Plan}
+
+\subsubsection{Risk Plan}
+
+\subsubsection{Acceptance Plan}
+
+The product must deliver all data provided (in the given database) to a dynamic web page through which the user can manipulate how the data is displayed.
+
+\end{document}
